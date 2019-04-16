@@ -1,0 +1,5 @@
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\EPPPlusMTK\EPPPlusMTK\bin\Release\EPPPlusMTK.dll
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\EPPPlusMTK\EPPPlusMTK\bin\Release\EPPPlusMTK.pdb
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\EPPPlusMTK\EPPPlusMTK\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\EPPPlusMTK\EPPPlusMTK\obj\Release\EPPPlusMTK.dll
+C:\Users\jesus.palma\Documents\Visual Studio 2008\Projects\EPPPlusMTK\EPPPlusMTK\obj\Release\EPPPlusMTK.pdb
